@@ -15,6 +15,7 @@ class _SearchScreenState extends State<searchScreen> {
   String collectionName = 'basic';
   String _searchQuery = '';
 
+  // git commit confirmed
   //  FOR SEARCHING ONLY THE FIRST WORD
 
   // void performSearch(String query) {
