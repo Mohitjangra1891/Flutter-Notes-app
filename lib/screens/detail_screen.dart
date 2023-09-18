@@ -121,7 +121,7 @@ class _detail_screenState extends State<detail_screen> {
                   maxLines: null,
                   keyboardType: TextInputType.multiline,
                   textInputAction: TextInputAction.newline,
-                  style: TextStyle(fontSize: 22, color: Colors.black87),
+                  style: TextStyle(fontSize: 22, color: Colors.black),
                   decoration: InputDecoration(
                       isDense: true,
                       hintText: 'title',
@@ -154,7 +154,7 @@ class _detail_screenState extends State<detail_screen> {
                     maxLines: null,
                     keyboardType: TextInputType.multiline,
                     textInputAction: TextInputAction.newline,
-                    style: TextStyle(fontSize: 16, color: Colors.black54),
+                    style: TextStyle(fontSize: 16, color: Colors.black87),
                     decoration: InputDecoration(
                         isDense: true,
 // Set this to true to reduce vertical spacing

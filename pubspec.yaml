@@ -38,10 +38,7 @@ dependencies:
   firebase_core: ^2.15.1
   cloud_firestore: ^4.9.1
   velocity_x: ^4.1.1
-  hive: ^2.2.3
-  hive_flutter: ^1.1.0
-  path_provider: ^2.1.0
-  path: ^1.8.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

@@ -126,7 +126,7 @@ class _ListViewWidgetState extends State<ListViewWidget> {
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(
                     content: Text(' deleted'),
-                    duration: Duration(seconds: 5),
+                    duration: Duration(seconds: 3),
                     action: SnackBarAction(
                       label: 'Undo',
                       onPressed: () async {

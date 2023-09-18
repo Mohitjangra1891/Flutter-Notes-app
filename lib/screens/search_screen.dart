@@ -110,12 +110,6 @@ class _SearchScreenState extends State<searchScreen> {
             hintText: 'Search...',
           ),
         ),
-        leading: IconButton(
-          icon: Icon(Icons.arrow_back),
-          onPressed: () {
-            Navigator.pop(context);
-          },
-        ),
       ),
       body: ListView.builder(
         itemCount: searchResults.length,
@@ -129,10 +123,8 @@ class _SearchScreenState extends State<searchScreen> {
             child: ListTile(
               title: Text(
                 item.title,
-                style: TextStyle(
-                  fontWeight: FontWeight.w200,
-                  color: Colors.black87, // Customize the highlight color
-                ),
+                style:
+                    const TextStyle(fontWeight: FontWeight.w400, fontSize: 19),
               ),
               subtitle: Text(
                 item.description,
