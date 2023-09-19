@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_notes/screens/api_three.dart';
 
 import '../app_bar.dart';
 import '../tabs/basic_tab.dart';
+import 'api_one.dart';
+import 'api_two.dart';
 import 'favorites_screen.dart';
 
 class home_screen extends StatefulWidget {
@@ -59,6 +62,36 @@ class _home_screenState extends State<home_screen> {
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => favorites_screen()),
+              );
+            },
+          ),
+          ListTile(
+            title: Text('Api 1'),
+            onTap: () {
+              Navigator.pop(context); // Close the drawer
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => api_one()),
+              );
+            },
+          ),
+          ListTile(
+            title: Text('Api 2'),
+            onTap: () {
+              Navigator.pop(context); // Close the drawer
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => api_two()),
+              );
+            },
+          ),
+          ListTile(
+            title: Text('Api 3'),
+            onTap: () {
+              Navigator.pop(context); // Close the drawer
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => api_three()),
               );
             },
           ),
