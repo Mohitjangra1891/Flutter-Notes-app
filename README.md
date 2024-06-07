@@ -12,7 +12,12 @@ Features:
 Screenshots::
 
 
-![IMG-20240427-WA0118](https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/52f8c309-b7e3-4776-9c4d-c93616582183)
-![IMG-20240427-WA0117](https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/e67cd712-8096-4ebf-a3b7-dd069fc626a9)
-![IMG-20240427-WA0120](https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/1275fc1a-6e61-4687-9754-02f1081e672a)
-![IMG-20240427-WA0119](https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/a94bc4aa-2e26-4ffb-b840-43fef87e4814)
+<img src="https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/52f8c309-b7e3-4776-9c4d-c93616582183" width="250" height="500">
+<img src="https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/e67cd712-8096-4ebf-a3b7-dd069fc626a9" width="250" height="500">
+<img src="https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/1275fc1a-6e61-4687-9754-02f1081e672a" width="250" height="500">
+
+<img src="https://github.com/Mohitjangra1891/Flutter-Notes-app/assets/115972025/a94bc4aa-2e26-4ffb-b840-43fef87e4814" width="250" height="500">
+![IMG-20240427-WA0118]()
+![IMG-20240427-WA0117])
+![IMG-20240427-WA0120]()
+![IMG-20240427-WA0119](4)
